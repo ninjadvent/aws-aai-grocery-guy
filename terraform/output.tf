@@ -1,3 +1,0 @@
-output "api_gateway_endpoint" {
-  value = aws_api_gateway_deployment.grocery_api_deployment.invoke_url
-}

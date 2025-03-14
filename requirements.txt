@@ -1,0 +1,6 @@
+Markdown==3.7
+crewai==0.80.0
+crewai_tools
+openai
+beautifulsoup4
+requests
